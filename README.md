@@ -2,11 +2,11 @@
 **A Jupyter Notebook–based Statistical Exploration of Cardiovascular Risk Factors**
 
 ## Overview  
-This project explores a subset of data from the **Framingham Heart Study**, a landmark cardiovascular study that began in 1948. The original study followed **5,209 men and women** aged **30–62** from Framingham, Massachusetts, collecting detailed health, lifestyle, and physiological measurements every two years. The overarching goal of the study has always been to identify the **common factors and characteristics that contribute to cardiovascular disease (CVD)**.
+This project explores a subset of data from the **Framingham Heart Study**, a landmark cardiovascular study that began in 1948. The original study followed 5,209 men and women aged 30–62 from Framingham, Massachusetts, collecting detailed health, lifestyle, and physiological measurements every two years. The overarching goal of the study has always been to identify the common factors and characteristics that contribute to cardiovascular disease (CVD).
 
-In this project, I perform **regression analysis** using Python to understand how different physiological variables relate to one another—especially those connected to cardiovascular risk, such as **blood pressure, weight, cholesterol, and smoking habits**.
+In this project, I perform regression analysis using Python to understand how different physiological variables relate to one another—especially those connected to cardiovascular risk, such as blood pressure, weight, cholesterol, and smoking habits.
 
-All work for this project is performed inside a **Jupyter Notebook**, using Python's scientific computing stack. I completed this project as the final project for the Data Science with Python Course at the University of Helsinki
+All work for this project is performed inside a Jupyter Notebook, using Python's scientific computing stack. I completed this project as the final project for the Data Science with Python Course at the University of Helsinki
 
 ---
 
